@@ -21,7 +21,7 @@ I'm a <code>**Software Developer**</code> who is passionate about making <code>*
   <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IhsanMuhamadSobari&layout=compact&langs_count=10&theme=light&bg_color=FFFFFF"/>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bintaaaa&theme=light&fire=000000&ring=000000&currStreakLabel=000000"/>
 
-  <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=Bintaaaa&theme=react-light&bg_color=FFFFFF&color=000000"/>
+  
 </a>
 </p>
 
