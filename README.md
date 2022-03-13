@@ -40,7 +40,7 @@ I'm a <code>**Software Developer**</code> who is passionate about making <code>*
 <details>
   <summary><b>📫 Reach me on</b></summary>
   
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/san_z35/)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/san_z35/)
 </details>
 
 <!-- end of tools stack -->
